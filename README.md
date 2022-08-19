@@ -11,8 +11,3 @@
 <p align="left">
 <a href="https://codepen.io/linda-94-andersson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="linda-94-andersson" height="30" width="40" /></a>
 </p>
-
-You can find me on \[!\[LinkedIn\][2.2]\][2].
-
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
-[2]: https://www.linkedin.com/in/linda-andersson-stockholm/
