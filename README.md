@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome to my, Linda Anderssons, GitHub! </h1>
 
-<h3 align="center"> I'm a Frontend student who values structure and order based in Stockholm - Sweden </h3>
+<h3 align="center"> I'm a Frontend student who values structure and order, based in Stockholm - Sweden </h3>
 
 
 <div align="center">
