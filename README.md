@@ -6,7 +6,7 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=linda-94-andersson&show_icons=true&locale=en&layout=compact" alt="linda-94-andersson" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=linda-94-andersson&show_icons=true&locale=en" alt="linda-94-andersson" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=linda-94-andersson&show_icons=true&locale=en" alt="linda-94-andersson" /></p>
 </div>
 
 <h3 align="left">My Codepen work:</h3>
